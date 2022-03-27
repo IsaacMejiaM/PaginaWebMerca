@@ -1,8 +1,5 @@
 --INDEX--
 
-Agregar menú hamburguesa
-Añadir información de bienvenida
-
 
 --LOGIN--
 
@@ -10,4 +7,3 @@ Boton acceder: type="button" debe ser type="submit"
 
 
 --HOME--
-Agregar menú hamburguesa
